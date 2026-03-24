@@ -25,7 +25,6 @@ Desenvolvedora apaixonada por tecnologia, sistemas e projetos que conectam progr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilDeveloper&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SilDeveloper&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
