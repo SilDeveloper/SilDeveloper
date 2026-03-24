@@ -68,5 +68,9 @@ Desenvolvedora apaixonada por tecnologia, sistemas e projetos que conectam progr
 </p>
 
 <p align="center">
-  <img src="https://github.com/SilDeveloper/SilDeveloper/blob/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SilDeveloper/SilDeveloper/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SilDeveloper/SilDeveloper/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/SilDeveloper/SilDeveloper/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
