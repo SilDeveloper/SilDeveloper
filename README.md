@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello, World! 👋</h2>
-
+  
 ```bash
 $ whoami
 Sil Developer
@@ -11,12 +11,12 @@ Sil Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Sil+Developer;Licenciada+em+Computação;Mestranda+em+Modelagem+Computacional;Desenvolvedora+de+Sistemas" />
-</p>>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 
 <p align="center">
-Apaixonada por tecnologia, desenvolvimento de sistemas e projetos que conectam programação e pesquisa científica.
+Desenvolvedora apaixonada por tecnologia, sistemas e projetos que conectam programação e pesquisa científica.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
@@ -24,9 +24,8 @@ Apaixonada por tecnologia, desenvolvimento de sistemas e projetos que conectam p
 ## 💻 Linguagens mais utilizadas
 
 <p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilDeveloper&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilDeveloper&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SilDeveloper&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
@@ -35,12 +34,13 @@ Apaixonada por tecnologia, desenvolvimento de sistemas e projetos que conectam p
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
