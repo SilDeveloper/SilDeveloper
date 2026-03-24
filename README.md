@@ -66,3 +66,7 @@ Desenvolvedora apaixonada por tecnologia, sistemas e projetos que conectam progr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-miguez123/)
 
 </p>
+
+<p align="center">
+  <img src="https://github.com/SilDeveloper/SilDeveloper/blob/output/github-contribution-grid-snake.svg">
+</p>
