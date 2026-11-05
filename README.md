@@ -10,7 +10,7 @@ Sil Developer
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Sil+Developer;Licenciada+em+Computação;Mestranda+em+Modelagem+Computacional;Desenvolvedora+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Sil+Developer;Licenciada+em+Computação;Mestra+em+Modelagem+Computacional;Desenvolvedora+de+Sistemas" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
